@@ -1,3 +1,3 @@
 # About
 
-This site is a work in progress (or, a work in stasis). I am interested in the social sciences. I may return to using this page later.
+I am an incoming PhD student in the Department of Government at Harvard University. My interests include American politics, political economy, survey methodology, causal inference. This site is a work in progress, which I plan to update with additional information.
